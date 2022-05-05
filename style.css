@@ -1,0 +1,24 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #111;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    background-color: gray;
+}
+
+.left-nav {
+    background-color: #9333ea;
+    font-weight: bold;
+    color: white;
+}
+
+.left-nav ul li{
+    color: #FFF;
+}
+
+img {
+    fill: white;
+}
